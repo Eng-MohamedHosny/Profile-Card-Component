@@ -87,27 +87,6 @@ body {
   overflow: hidden;
   z-index: -1;
 }
-
- /* .bg-top {
-  position: absolute;
-  background: url("images/bg-pattern-top.svg");
-  background-size: contain;
-  background-repeat: no-repeat;
-  height: 978px;
-  width: 978px;
-  top: -528px;
-  left: -284px;
-}
-.bg-bottom {
-  position: absolute;
-  background: url("images/bg-pattern-bottom.svg");
-  background-size: contain;
-  background-repeat: no-repeat;
-  height: 978px;
-  width: 978px;
-  bottom: -628px;
-  right: -250px;
-} */
  .bg-top {
   position: absolute;
   background: url("images/bg-pattern-top.svg");
